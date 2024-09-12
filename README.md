@@ -1,2 +1,1 @@
-# EdTech - Tech-Enhanced Learning
- 
+# StudyNotion Edtech Project
